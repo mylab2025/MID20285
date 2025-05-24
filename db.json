@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "Lead Acid Battery (12V-2.3Ah)",
+        "PN": "NP2.3-12 is 12V battery with capacity of 2.3Amps per hour. Charging voltage: ~13 - 14V, Charging current: 0.575A (Limited) || As it tagged as #Class2 May be damaged for long time use (Not sure about the lifetime but currently fine) || Location: TBA",
+        "MF": "YUASA"
+      },
+      "MID": "MID20285",
+      "MD": "NP2.3-12 ",
+      "MT": "Electronic Material",
+      "MQNT": 2,
+      "MCost": 3402.0,
+      "MQATG": "#CLASS_2",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20285%2Fmain%2FNP2.3-12%20%281%29.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20285%2Fmain%2FNP2.3-12.pdf",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20285/main/Screenshot 2025-05-24 155952.png",
+        "https://raw.githubusercontent.com/mylab2025/MID20285/main/WhatsApp Image 2025-05-24 at 3.54.40 PM.jpeg"
+      ]
+    }
+  ]
+}
