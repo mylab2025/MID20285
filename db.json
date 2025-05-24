@@ -3,11 +3,11 @@
     {
       "MaterialTitle": {
         "Name": "Lead Acid Battery (12V-2.3Ah)",
-        "PN": "NP2.3-12 is 12V battery with capacity of 2.3Amps per hour. Charging voltage: ~13 - 14V, Charging current: 0.575A (Limited) || As it tagged as #Class2 May be damaged for long time use (Not sure about the lifetime but currently fine) || Location: TBA",
+        "PN": "NP2.3-12 ",
         "MF": "YUASA"
       },
       "MID": "MID20285",
-      "MD": "NP2.3-12 ",
+      "MD": "NP2.3-12 is 12V battery with capacity of 2.3Amps per hour. Charging voltage: ~13 - 14V, Charging current: 0.575A (Limited) || As it tagged as #Class2 May be damaged for long time use (Not sure about the lifetime but currently fine) || Location: TBA",
       "MT": "Electronic Material",
       "MQNT": 2,
       "MCost": 3402.0,
